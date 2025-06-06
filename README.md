@@ -79,13 +79,13 @@ Mohon informasi untuk pembayaran selanjutnya. Terima kasih!
 
 ## 🖼️ Screenshots
 
-| Home Page | Save Ebook | Kart Page |
+| Intro Page | Home Page | Cart Page |
 |------------|-----------|-----------|
-| <img src="https://kknunfari.com/images/deva/beranda.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/Save_ebook.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/kart_page.jpg" width="250"/> |
+| <img src="https://kknunfari.com/images/01.awal.jpg" width="250"/> | <img src="https://kknunfari.com/images/02.beranda.jpg" width="250"/> | <img src="https://kknunfari.com/images/03.Keranjang.jpg" width="250"/> |
 
-| Detail Page | Profile Page | Payment Whatsapp
+| Product Page | Profile Page | App Drawer |
 |--------------|------------|--------------|
-| <img src="https://kknunfari.com/images/deva/detail%20_produk.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/profile_page.jpg" width="250"/> | <img src="https://kknunfari.com/images/06.App%20Drawer.jpg" width="250"/> |
+| <img src="https://kknunfari.com/images/04.All%20Produk.jpg" width="250"/> | <img src="https://kknunfari.com/images/05.Profile.jpg" width="250"/> | <img src="https://kknunfari.com/images/06.App%20Drawer.jpg" width="250"/> |
 
 
 ## 🔮 To-Do
