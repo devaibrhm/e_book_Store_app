@@ -1,6 +1,6 @@
-# kaky 🏙️👟
+# e_book_Store 🏙️
 
-*kaky* is a modern and minimal e-commerce mobile application built with Flutter. This project is based on the tutorial by Mitch Koko ([YouTube](https://www.youtube.com/watch?v=UcwsuZP071Y)) and extended to suit a more dynamic shopping experience like Adidas or Nike mobile apps.
+**e_book_Store** is a modern and minimal e-commerce mobile application built with Flutter. This project is based on the tutorial by Mitch Koko ([YouTube](https://youtu.be/x9RtO_1mrMc?feature=shared)) and extended to suit a more dynamic shopping experience like Adidas or Nike mobile apps.
 
 ## ✨ Features
 
@@ -31,7 +31,7 @@ lib/
 
 1. *Clone the repository:*
    bash
-   git https://github.com/Ihsansuryajamil/Kaky.git
+   git https://github.com/devaibrhm/e_book_Store_app.git
    cd kaky
    
 
@@ -48,41 +48,59 @@ lib/
 ## 📲 WhatsApp Checkout
 
 This feature creates a pre-filled WhatsApp message containing cart item names and total price:
+```
+Halo, saya ingin membeli buku berikut:
 
-Hello! I want to order:
-- Air Jordan 1 (low) ($140)
-- Air Jordan 1 (low) ($140)
+- The Great Gatsby (F. Scott Fitzgerald)
+  Jumlah: 2
+  Harga: Rp 75000
+  Subtotal: Rp 150000
 
-Total: $280.00
+- Atomic Habits (James Clear)
+  Jumlah: 1
+  Harga: Rp 85000
+  Subtotal: Rp 85000
+
+- 1984 (George Orwell)
+  Jumlah: 1
+  Harga: Rp 65000
+  Subtotal: Rp 65000
+
+Total Pembayaran: Rp 270000
+Diskon: Rp 30000
+
+Mohon informasi untuk pembayaran selanjutnya. Terima kasih!
 
 
 ## 🙌 Credits
 
 - 🧠 UI and structure inspired by Mitch Koko’s Flutter tutorial:  
-  [🖥️ YouTube Video](https://www.youtube.com/watch?v=UcwsuZP071Y)
+  [🖥️ YouTube Video](https://youtu.be/x9RtO_1mrMc?feature=shared)
 
 ## 🖼️ Screenshots
 
-| Intro Page | Home Page | Cart Page |
+| Home Page | Save Ebook | Kart Page |
 |------------|-----------|-----------|
-| <img src="https://kknunfari.com/images/01.awal.jpg" width="250"/> | <img src="https://kknunfari.com/images/02.beranda.jpg" width="250"/> | <img src="https://kknunfari.com/images/03.Keranjang.jpg" width="250"/> |
+| <img src="https://kknunfari.com/images/deva/beranda.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/Save_ebook.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/kart_page.jpg" width="250"/> |
 
-| Product Page | Profile Page | App Drawer |
+| Detail Page | Profile Page | Payment Whatsapp
 |--------------|------------|--------------|
-| <img src="https://kknunfari.com/images/04.All%20Produk.jpg" width="250"/> | <img src="https://kknunfari.com/images/05.Profile.jpg" width="250"/> | <img src="https://kknunfari.com/images/06.App%20Drawer.jpg" width="250"/> |
+| <img src="https://kknunfari.com/images/deva/detail%20_produk.jpg" width="250"/> | <img src="https://kknunfari.com/images/deva/profile_page.jpg" width="250"/> | <img src="https://kknunfari.com/images/06.App%20Drawer.jpg" width="250"/> |
 
 
 ## 🔮 To-Do
 
-- [ ] Product detail page  
-- [ ] Authentication (Login/Register)  
-- [ ] Payment gateway integration  
-- [ ] Wishlist functionality  
+- [ ] Home page
+- [ ] Product detail page
+- [ ] Save Page   
+- [ ] Kart Page  
+- [ ] Payment Whatsapp  
+- [ ] Profile  
 
 ## 👨‍💻 Author
 
 - *Name:* Ihsan Surya Jamil, M Fisal Ramdan, dan Hanifah  
-- *GitHub:* [https://github.com/Ihsansuryajamil/Kaky](https://github.com/Ihsansuryajamil/Kaky)
+- *GitHub:* [https://github.com/devaibrhm/e_book_Store_app](https://github.com/devaibrhm/e_book_Store_app)
 
 ## 📄 License
 
